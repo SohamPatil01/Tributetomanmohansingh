@@ -1,0 +1,26 @@
+h1 {
+  color: aqua;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+  font-style: oblique;
+  border-style: double;
+  text-align: center;
+  border-color: bisque;
+}
+header {
+  font-size: 25px;
+  margin-left: 21px;
+}
+p {
+  font-size: 20px;
+  margin-left: 21px;
+}
+img {
+  border-radius: 20px;
+}
+button {
+  border-color: blue;
+  font-size: 15px;
+  font-weight: 500px;
+  background-color: cadetblue;
+}
